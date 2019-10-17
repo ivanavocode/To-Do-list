@@ -1,0 +1,59 @@
+E:\web\показать\MyGit\React-Project\project
+├── build
+|  ├── asset-manifest.json
+|  ├── debug.log
+|  ├── index.html
+|  ├── precache-manifest.a837d3aa6eeffcce7af144bb363be908.js
+|  ├── service-worker.js
+|  └── static
+|     ├── css
+|     |  ├── main.30bf1f4f.chunk.css
+|     |  └── main.30bf1f4f.chunk.css.map
+|     └── js
+|        ├── 2.3454670b.chunk.js
+|        ├── 2.3454670b.chunk.js.map
+|        ├── main.43248b08.chunk.js
+|        ├── main.43248b08.chunk.js.map
+|        ├── runtime~main.d653cc00.js
+|        └── runtime~main.d653cc00.js.map
+├── debug.log
+├── out.txt
+├── package-lock.json
+├── package.json
+├── public
+|  ├── debug.log
+|  └── index.html
+├── src
+|  ├── components
+|  |  ├── app
+|  |  |  ├── app.css
+|  |  |  ├── app.js
+|  |  |  └── index.js
+|  |  ├── app-header
+|  |  |  ├── app-header.css
+|  |  |  ├── app-header.js
+|  |  |  └── index.js
+|  |  ├── item-add-from
+|  |  |  ├── index.js
+|  |  |  ├── item-add-form.css
+|  |  |  └── item-add-form.js
+|  |  ├── item-status-filter
+|  |  |  ├── index.js
+|  |  |  ├── item-status-filter.css
+|  |  |  └── item-status-filter.js
+|  |  ├── search-panel
+|  |  |  ├── index.js
+|  |  |  ├── search-panel.css
+|  |  |  └── search-panel.js
+|  |  ├── todo-list
+|  |  |  ├── index.js
+|  |  |  ├── todo-list.css
+|  |  |  └── todo-list.js
+|  |  └── todo-list-item
+|  |     ├── index.js
+|  |     ├── todo-list-item.css
+|  |     └── todo-list-item.js
+|  └── index.js
+└── yarn.lock
+
+directory: 14 file: 42 
