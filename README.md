@@ -15,37 +15,18 @@ TODO LIST
 
   - __components__
     - __app__
-      - [app.js]
+      - [app.js]                # основной компонент, содержит основную логику приложения
     - __app-header__
-      - [app-header.js]
+      - [app-header.js]         # отображает заголовок и статус дел(активно,закончено)
     - __item-add-from__
-      - [item-add-form.js]
+      - [item-add-form.js]      # компонент содержит форму для создания новой задачи
     - __item-status-filter__
-      - [item-status-filter.js]
+      - [item-status-filter.js] # производит сортировку по выбранному критерию(all, active, done)
     - __search-panel__
-      - [search-panel.js]
+      - [search-panel.js]       # панель поиска задачи
     - __todo-list__
-      - [todo-list.js]
+      - [todo-list.js]          # отображает список дел
     - __todo-list-item__
-      - [todo-list-item.js]
+      - [todo-list-item.js]     # child component todo-list создает  элемент списка
   - [index.js]
-
-
-├── src
-|  ├── components                   #
-|  |  ├── app
-|  |  |  ├── app.js                 # основной компонент, содержит основную логику приложения
-|  |  ├── app-header
-|  |  |  ├── app-header.js          # отображает заголовок и статус дел(активно,закончено)
-|  |  ├── item-add-from
-|  |  |  └── item-add-form.js       # компонент содержит форму для создания новой задачи
-|  |  ├── item-status-filter
-|  |  |  └── item-status-filter.js  # производит сортировку по выбранному критерию(all, active, done)
-|  |  ├── search-panel
-|  |  |  └── search-panel.js        # панель поиска задачи
-|  |  ├── todo-list
-|  |  |  └── todo-list.js           # отображает список дел
-|  |  └── todo-list-item
-|  |     └── todo-list-item.js      # child component todo-list создает  элемент списка
-|  └── index.js
 
