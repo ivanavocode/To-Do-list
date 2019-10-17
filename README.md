@@ -13,6 +13,23 @@ TODO LIST
     build, -- сборка
 ```
 
+  - __components__
+    - __app__
+      - [app.js]
+    - __app-header__
+      - [app-header.js]
+    - __item-add-from__
+      - [item-add-form.js]
+    - __item-status-filter__
+      - [item-status-filter.js]
+    - __search-panel__
+      - [search-panel.js]
+    - __todo-list__
+      - [todo-list.js]
+    - __todo-list-item__
+      - [todo-list-item.js]
+  - [index.js]
+
 
 ├── src
 |  ├── components                   #
