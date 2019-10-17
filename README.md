@@ -3,6 +3,9 @@
 TODO LIST
 ================
 
+link: https://ivanavocode.github.io/React-project/
+----------
+
 Установка
 ----------
 Установить зависимости из package.json(..\project\package.json) cmd --> npm i
