@@ -13,7 +13,7 @@ TODO LIST
     build, -- сборка
 ```
 
-================
+
 ├── src
 |  ├── components                   #
 |  |  ├── app
@@ -31,4 +31,4 @@ TODO LIST
 |  |  └── todo-list-item
 |  |     └── todo-list-item.js      # child component todo-list создает  элемент списка
 |  └── index.js
-================
+
