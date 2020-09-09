@@ -3,7 +3,7 @@
 TODO LIST
 ================
 
-link: https://ivanavocode.github.io/React-project/
+link: https://ivanavocode.github.io/To-Do-list/
 ----------
 
 Установка
